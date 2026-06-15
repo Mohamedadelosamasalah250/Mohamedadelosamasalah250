@@ -1,119 +1,164 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3670F7&center=true&vCenter=true&width=500&lines=Mohamed+Adel;Software+Developer;Backend+Architect;Problem+Solver" alt="Typing SVG" />
-  </a>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=line&color=3670F7&height=2" width="100%"/>
-</div>
+<!-- ═══════════════════ RISING SUN BANNER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,2&height=200&section=header&text=Mohamed%20Adel&fontSize=52&fontColor=FF5500&fontAlignY=38&desc=Student%20%E2%80%A2%20Tool%20Builder%20%E2%80%A2%20AI%20Learner&descSize=17&descAlignY=60&descColor=FFA07A&animation=fadeIn" width="100%"/>
 
-<div align="center">
+<!-- ═══════════════════ AVATAR BADGE ═══════════════════ -->
+<br/>
+<img src="https://github.com/Mohamedadelosamasalah250.png" width="120" height="120"
+     style="border-radius:50%; border: 3px solid #FF5500;"
+     alt="Mohamed Adel Avatar"/>
 
-**Software Developer with a passion for building robust, scalable, and maintainable backend systems. I turn complex problems into clean, efficient, and well-documented code.**
+<br/>
 
-<p align="center">
-  <a href="https://github.com/Mohamedadelosamasalah250" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-3670F7?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-3670F7?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-3670F7?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<!-- ═══════════════════ NAME & TYPING ANIMATION ═══════════════════ -->
+<a href="https://github.com/Mohamedadelosamasalah250">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF5500&center=true&vCenter=true&width=600&lines=⚔️+Welcome+to+my+forge+of+code.;I+build+tools.+I+break+limits.;Samurai+of+Software+%26+AI.;Discipline+%7C+Craft+%7C+Growth." alt="Typing SVG"/>
+</a>
 
-</div>
+<br/><br/>
 
----
+<!-- ═══════════════════ PROFILE VIEWS & FOLLOWERS ═══════════════════ -->
+[![Profile Views](https://komarev.com/ghpvc/?username=Mohamedadelosamasalah250&style=for-the-badge&color=ff5500&label=VISITORS)](https://github.com/Mohamedadelosamasalah250)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Mohamedadelosamasalah250?label=FOLLOWERS&style=for-the-badge&color=ff5500&labelColor=0d0d0d)](https://github.com/Mohamedadelosamasalah250?tab=followers)
 
-### 🚀 Core Strengths & Tech Stack
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <h3>Backend Development</h3>
-      </div>
-      <p align="center">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-        <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <div align="center">
-        <h3>Databases & Caching</h3>
-      </div>
-      <p align="center">
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-        <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <h3>DevOps & Tools</h3>
-      </div>
-      <p align="center">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-        <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <div align="center">
-        <h3>Principles & Architecture</h3>
-      </div>
-      <p align="center">
-        API Design, Clean Code, SOLID, Design Patterns, Unit Testing, CI/CD, Microservices
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedadelosamasalah250&show_icons=true&theme=transparent&border_color=3670F7&text_color=3670F7&icon_color=3670F7" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedadelosamasalah250&theme=transparent&border=3670F7&stroke=3670F7&ring=3670F7&fire=3670F7&currStreakNum=3670F7&sideNums=3670F7&currStreakLabel=3670F7&sideLabels=3670F7&dates=3670F7" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedadelosamasalah250&theme=react&bg_color=00000000&color=3670F7&line=3670F7&point=3670F7&hide_border=true" width="100%"/>
 </div>
 
 ---
 
-### 💡 Featured Projects
-> **This is your portfolio.** Replace these examples with your best projects. Describe the problem, the solution, and the tech used.
+<!-- ═══════════════════ THE DIVIDER BLADE ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Project 1: API for Booking System</h3>
-      <p>A robust RESTful API for a multi-tenant booking platform. Designed with a clean architecture to handle concurrent requests, user authentication (JWT), and role-based access control.</p>
-      <p><strong>Tech:</strong> <code>Node.js</code>, <code>Express</code>, <code>PostgreSQL</code>, <code>Docker</code></p>
-      <a href="https://github.com/Mohamedadelosamasalah250/your-repo-1" target="_blank">View Code →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Project 2: E-commerce Backend</h3>
-      <p>Backend service for an e-commerce platform supporting product management, shopping cart logic, and order processing. Focused on database schema design and API consistency.</p>
-      <p><strong>Tech:</strong> <code>Django</code>, <code>DRF</code>, <code>SQLite</code>, <code>Jest</code></p>
-      <a href="https://github.com/Mohamedadelosamasalah250/your-repo-2" target="_blank">View Code →</a>
-    </td>
-  </tr>
-</table>
+## ⚔️ &nbsp;About Me
+
+```python
+samurai = {
+    "name"     : "Mohamed Adel Osama Salah",
+    "alias"    : "Mohamedadelosamasalah250",
+    "role"     : ["Student", "Tool Builder", "AI Learner"],
+    "location" : "Egypt 🇪🇬",
+    "path"     : "Programming → Software Dev → Artificial Intelligence",
+    "code_of"  : "Discipline. Craft. Relentless Iteration.",
+}
+```
+
+- 🎓 &nbsp;A **passionate student** on a structured path through programming, software development, and AI
+- 🛠️ &nbsp;Driven to **build innovative tools** that solve real-world problems with clean, purposeful code
+- 🧠 &nbsp;Dedicated to **mastering AI and ML concepts** — from fundamentals to applied systems
+- 🔄 &nbsp;A **continuous learner** who treats every error message as a teacher and every project as a dojo
+- ⚔️ &nbsp;Committed to the samurai's code: **one skill, sharpened daily** — no shortcuts, no retreat
+
+<br/>
+
+<!-- ═══════════════════ THE DIVIDER BLADE ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🔥 &nbsp;Tech Stack & Weapons of Choice
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=line&color=3670F7&height=2" width="100%"/>
+
+### 🐍 &nbsp;Languages
+![Python](https://img.shields.io/badge/Python-FF5500?style=for-the-badge&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=FF5500)
+![HTML5](https://img.shields.io/badge/HTML5-FF5500?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=FF5500)
+![C](https://img.shields.io/badge/C-FF5500?style=for-the-badge&logo=c&logoColor=ffffff)
+
+### 🤖 &nbsp;AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=FF5500)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-FF5500?style=for-the-badge&logo=scikit-learn&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/NumPy-1a1a1a?style=for-the-badge&logo=numpy&logoColor=FF5500)
+![Pandas](https://img.shields.io/badge/Pandas-FF5500?style=for-the-badge&logo=pandas&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/Jupyter-1a1a1a?style=for-the-badge&logo=jupyter&logoColor=FF5500)
+
+### 🛠️ &nbsp;Tools & Environment
+![Git](https://img.shields.io/badge/Git-FF5500?style=for-the-badge&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=FF5500)
+![VS Code](https://img.shields.io/badge/VS%20Code-FF5500?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=FF5500)
+![Markdown](https://img.shields.io/badge/Markdown-FF5500?style=for-the-badge&logo=markdown&logoColor=ffffff)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ THE DIVIDER BLADE ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamedadelosamasalah250&show_icons=true&theme=dark&title_color=FF5500&icon_color=FF5500&text_color=FFA07A&border_color=FF5500&bg_color=0d0d0d&hide_border=false&rank_icon=github&custom_title=⚔️%20Battle%20Record" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedadelosamasalah250&layout=compact&theme=dark&title_color=FF5500&text_color=FFA07A&border_color=FF5500&bg_color=0d0d0d&custom_title=🔥%20Weapons%20of%20Choice&langs_count=8" alt="Top Languages"/>
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedadelosamasalah250&theme=dark&ring=FF5500&fire=FF5500&currStreakLabel=FF5500&border=FF5500&background=0d0d0d&stroke=FF5500&sideLabels=FFA07A&dates=888888&currStreakNum=FF5500&sideNums=FF5500" alt="GitHub Streak"/>
+
+<br/>
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedadelosamasalah250&bg_color=0d0d0d&color=FF5500&line=FF5500&point=FFA07A&area=true&area_color=FF550033&hide_border=false&border_color=FF5500&custom_title=⚔️%20Code%20Activity%20Graph" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ THE DIVIDER BLADE ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🏆 &nbsp;Trophies & Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mohamedadelosamasalah250&theme=onestar&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=false&title_color=FF5500" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ THE DIVIDER BLADE ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🌐 &nbsp;Connect & Reach Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@Mohamedadelosamasalah250-FF5500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamedadelosamasalah250)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-1a1a1a?style=for-the-badge&logo=gmail&logoColor=FF5500)](mailto:your.email@example.com)
+
+<br/>
+
+*— Replace the email badge URL with your real address —*
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ THE DIVIDER BLADE ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## ⚔️ &nbsp;The Samurai's Code
+
+<div align="center">
+
+> *"A warrior does not seek comfort. He seeks mastery.*
+> *He does not wait for the right moment — he forges it.*
+> *Each line of code is a stroke of the blade: deliberate, disciplined, decisive."*
+>
+> — **Mohamed Adel** &nbsp;|&nbsp; *Student. Builder. Samurai of Code.*
+
+<br/>
+
+![Snake animation](https://github.com/Mohamedadelosamasalah250/Mohamedadelosamasalah250/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<!-- ═══════════════════ FOOTER WAVE ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,2&height=120&section=footer&fontSize=0" width="100%"/>
+
+<div align="center">
+  <sub>⚔️ Forged with discipline by <strong>Mohamed Adel Osama Salah</strong> — 2025</sub>
 </div>
