@@ -5,6 +5,7 @@
 
 <!-- ═══════════════════ AVATAR BADGE ═══════════════════ -->
 
+<img width="768" height="432" alt="download" src="https://github.com/user-attachments/assets/0f91b33b-bf41-4b7d-a3ee-4ecc94b8316c" />
 
 <!-- ═══════════════════ NAME & TYPING ANIMATION ═══════════════════ -->
 
