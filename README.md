@@ -5,8 +5,6 @@
 
 <!-- ═══════════════════ AVATAR BADGE ═══════════════════ -->
 
-<img width="768" height="432" alt="download" src="https://github.com/user-attachments/assets/0f91b33b-bf41-4b7d-a3ee-4ecc94b8316c" />
-
 
 <!-- ═══════════════════ PROFILE VIEWS & FOLLOWERS ═══════════════════ -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Mohamedadelosamasalah250&style=for-the-badge&color=ff5500&label=VISITORS)](https://github.com/Mohamedadelosamasalah250)
