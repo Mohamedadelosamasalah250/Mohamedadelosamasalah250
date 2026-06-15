@@ -12,11 +12,7 @@
 <br/>
 
 <!-- ═══════════════════ NAME & TYPING ANIMATION ═══════════════════ -->
-<a href="https://github.com/Mohamedadelosamasalah250">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF5500&center=true&vCenter=true&width=600&lines=⚔️+Welcome+to+my+forge+of+code.;I+build+tools.+I+break+limits.;Samurai+of+Software+%26+AI.;Discipline+%7C+Craft+%7C+Growth." alt="Typing SVG"/>
-</a>
 
-<br/><br/>
 
 <!-- ═══════════════════ PROFILE VIEWS & FOLLOWERS ═══════════════════ -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Mohamedadelosamasalah250&style=for-the-badge&color=ff5500&label=VISITORS)](https://github.com/Mohamedadelosamasalah250)
