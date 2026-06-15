@@ -4,12 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,2&height=200&section=header&text=Mohamed%20Adel&fontSize=52&fontColor=FF5500&fontAlignY=38&desc=Student%20%E2%80%A2%20Tool%20Builder%20%E2%80%A2%20AI%20Learner&descSize=17&descAlignY=60&descColor=FFA07A&animation=fadeIn" width="100%"/>
 
 <!-- ═══════════════════ AVATAR BADGE ═══════════════════ -->
-<br/>
-<img src="https://github.com/Mohamedadelosamasalah250.png" width="120" height="120"
-     style="border-radius:50%; border: 3px solid #FF5500;"
-     alt="Mohamed Adel Avatar"/>
 
-<br/>
 
 <!-- ═══════════════════ NAME & TYPING ANIMATION ═══════════════════ -->
 
